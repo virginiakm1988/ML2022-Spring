@@ -6,7 +6,7 @@
 </p>
 
 
-This repository contains code and slides of 15 homeworks for Machine Learning instructed by 李宏毅(Hung-Yi Lee). All the information about this course can be found on the [course website](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html). 
+This repository contains code and slides of 15 homeworks for Machine Learning instructed by 李宏毅(Hung-Yi Lee). All the information about this course can be found on the [course website](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php). 
 
 ## Lecture Videos
 The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ).
