@@ -10,15 +10,15 @@
 This repository contains code and slides of 15 homeworks for Machine Learning instructed by 李宏毅(Hung-Yi Lee). All the information about this course can be found on the [course website](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php). 
 
 ## 15 Homeworks
-* HW1 : Regression [Video](https://youtu.be/cFIImk_yBTg) 
-[Code](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW01/HW01.ipynb) 
-[Slide](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW01/HW01.pdf)
-* HW2 : Classification [Video](https://youtu.be/FxuPF4vjga4)
-[Code](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW02/HW02.ipynb) 
-[Slide](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW02/HW02.pdf)
-* HW3 : CNN [Video](https://youtu.be/GXLwjQ_O50g)
-[Code](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW03/HW03.ipynb) 
-[Slide](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW03/HW03.pdf)
+* HW1 : Regression [[Video]](https://youtu.be/cFIImk_yBTg) 
+[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW01/HW01.ipynb) 
+[[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW01/HW01.pdf)
+* HW2 : Classification [[Video]](https://youtu.be/FxuPF4vjga4)
+[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW02/HW02.ipynb) 
+[[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW02/HW02.pdf)
+* HW3 : CNN [[Video]](https://youtu.be/GXLwjQ_O50g)
+[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW03/HW03.ipynb) 
+[[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW03/HW03.pdf)
 * HW4 : Self-Attention
 * HW5 : Transformer
 * HW6 : GAN
