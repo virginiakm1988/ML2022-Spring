@@ -9,12 +9,6 @@
 
 This repository contains code and slides of 15 homeworks for Machine Learning instructed by 李宏毅(Hung-Yi Lee). All the information about this course can be found on the [course website](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php). 
 
-## Lecture Videos
-The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ).
-
-[<img src="https://i.imgur.com/SFDpe52.jpg" width="500">](https://www.youtube.com/watch?v=7XZR0-4uS5s&t=18s)
-
-
 ## 15 Homeworks
 * HW1 : Regression [Video](https://youtu.be/cFIImk_yBTg) 
 * HW2 : Classification [Video](https://youtu.be/FxuPF4vjga4)
@@ -31,3 +25,8 @@ The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.
 * HW13 : Network Compression
 * HW14 : Life-Long Learning
 * HW15 : Meta Learning
+
+## Lecture Videos
+The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ).
+
+[<img src="https://i.imgur.com/SFDpe52.jpg" width="500">](https://www.youtube.com/watch?v=7XZR0-4uS5s&t=18s)
