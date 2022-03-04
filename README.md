@@ -16,9 +16,9 @@ The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.
 
 
 ## 15 Homeworks
-* HW1 : Regression
-* HW2 : Classification
-* HW3 : CNN
+* HW1 : Regression [Video](https://youtu.be/cFIImk_yBTg) 
+* HW2 : Classification [Video](https://youtu.be/FxuPF4vjga4)
+* HW3 : CNN [Video](https://youtu.be/GXLwjQ_O50g)
 * HW4 : Self-Attention
 * HW5 : Transformer
 * HW6 : GAN
