@@ -20,7 +20,7 @@ This repository contains code and slides of 15 homeworks for Machine Learning in
 [[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW03/HW03.ipynb) 
 [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW03/HW03.pdf)
 * HW4 : Self-Attention [[Video]](https://youtu.be/-KbD40w9-Io) 
-[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW04/HW04.ipynb) 
+[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW04/hw04.ipynb) 
 [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW04/Machine%20Learning%20HW4.pdf)
 * HW5 : Transformer
 * HW6 : GAN
