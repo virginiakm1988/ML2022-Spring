@@ -19,7 +19,7 @@ This repository contains code and slides of 15 homeworks for Machine Learning in
 * HW3 : CNN [[Video]](https://youtu.be/GXLwjQ_O50g)
 [[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW03/HW03.ipynb) 
 [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW03/HW03.pdf)
-* HW4 : Self-Attention
+* HW4 : Self-Attention [[Video]](https://youtu.be/-KbD40w9-Io)
 * HW5 : Transformer
 * HW6 : GAN
 * HW7 : BERT
