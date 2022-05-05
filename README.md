@@ -28,8 +28,10 @@ This repository contains code and slides of 15 homeworks for Machine Learning in
 [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW06/HW06.pdf)
 * HW7 : BERT[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW07/HW07.ipynb)
 [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW07/HW07.pdf)
-* HW8 : Autoencoder
-* HW9 : Explainable AI
+* HW8 : Autoencoder[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW08/HW08.ipynb)
+* [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW08/HW08.pdf)
+* HW9 : Explainable AI[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW09/HW09.ipynb)
+* [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW09/HW09.pdf)
 * HW10 : Adversarial Attack
 * HW11 : Adaptation
 * HW12 : Reinforcement Learning
