@@ -41,5 +41,4 @@ This repository contains code and slides of 15 homeworks for Machine Learning in
 The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ).
 
 [<img src="https://i.imgur.com/SFDpe52.jpg" width="500">](https://www.youtube.com/watch?v=7XZR0-4uS5s&t=18s)
-
-![Imgur Image](http://i.imgur.com/SRv0h6F.jpg)
+[<img src="http://i.imgur.com/SRv0h6F.jpg" width="500">]
