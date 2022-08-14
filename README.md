@@ -31,14 +31,14 @@ This repository contains code and slides of 15 homeworks for Machine Learning in
 * HW8 : Autoencoder[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW08/HW08.ipynb) [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW08/HW08.pdf)
 * HW9 : Explainable AI[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW09/HW09.ipynb) [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW09/HW09.pdf)
 * HW10 : Adversarial Attack[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW10/HW10.ipynb) [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW10/HW10.pdf)
-* HW11 : Adaptation
-* HW12 : Reinforcement Learning
-* HW13 : Network Compression
-* HW14 : Life-Long Learning
-* HW15 : Meta Learning
+* HW11 : Adaptation[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW11/HW11.ipynb) [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW11/HW11.pdf)
+* HW12 : Reinforcement Learning[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW12/HW12.ipynb) [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW12/HW12.pdf)
+* HW13 : Network Compression[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW13/HW13.ipynb) [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW13/HW13.pdf)
+* HW14 : Life-Long Learning[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW14/HW14.ipynb) [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW14/HW14.pdf)
+* HW15 : Meta Learning[[Code]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW15/HW15.ipynb) [[Slide]](https://github.com/virginiakm1988/ML2022-Spring/blob/main/HW15/HW15.pdf)
 
 ## Lecture Videos
 The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ).
 
 [<img src="https://i.imgur.com/SFDpe52.jpg" width="500">](https://www.youtube.com/watch?v=7XZR0-4uS5s&t=18s)
-[<img src="http://i.imgur.com/SRv0h6F.jpg" width="500">]
+<img src="http://i.imgur.com/SRv0h6F.jpg" width="500">
